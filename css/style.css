@@ -1,0 +1,19 @@
+h1{
+    font-size: 90px;
+    color: aqua;
+}
+body{
+    text-align: center;
+    background-image: url(../img/1010046.jpg);
+}
+a{
+    font-size: 30px;
+    color: azure;
+    text-decoration: none;
+    margin-right: 20px;
+}
+button{
+    font-size: 30px;
+    background-color: aqua;
+    margin-top: 70px;
+}
